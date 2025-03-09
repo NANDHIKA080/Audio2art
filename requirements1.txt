@@ -1,0 +1,8 @@
+streamlit
+openai
+torch
+torchaudio
+diffusers
+transformers
+soundfile
+speechrecognition
